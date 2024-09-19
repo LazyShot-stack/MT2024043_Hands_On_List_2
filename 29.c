@@ -3,7 +3,6 @@
 Name : 29.c
 Author : Dhruvik Patel - MT2024043
 Description : Write a program to remove the message queue.
-Date: 10 Oct, 2023.
 ============================================================================
 */
 
